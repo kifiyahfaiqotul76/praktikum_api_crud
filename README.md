@@ -29,3 +29,16 @@ c.	JSON adalah format pertukaran data yang ringan dan mudah dibaca manusia serta
 4.	Membuat kelas api service
 5.	Membuat Halaman daftar pengguna
 6.	Membuat halaman tambah dan edit pengguna
+
+## Hasil ##
+![gambar 1](https://github.com/user-attachments/assets/107eb511-24b7-46e7-b400-1ad9442a7d50)
+![gambar 2](https://github.com/user-attachments/assets/24fdc080-d141-4842-a87b-288bb0c173df)
+![gambar 3](https://github.com/user-attachments/assets/b0947fd8-9e20-4e94-ae78-8ecb19064514)
+![gambar 4](https://github.com/user-attachments/assets/19eb9380-efc6-4214-981c-669ea7dccd6b)
+![gambar5](https://github.com/user-attachments/assets/27455d39-a8c3-417c-831e-35138d313b69)
+
+
+
+
+
+
